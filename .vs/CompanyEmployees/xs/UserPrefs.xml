@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{1CD7E2B1-9790-45C2-8773-FFA94C3655AF}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CompanyEmployees PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CompanyEmployees/Program.cs">
+    <Files>
+      <File FileName="CompanyEmployees/Properties/launchSettings.json" Line="15" Column="38" />
+      <File FileName="CompanyEmployees/Program.cs" Line="9" Column="14" />
+      <File FileName="CompanyEmployees/appsettings.json" Line="1" Column="1" />
+      <File FileName="CompanyEmployees/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="CompanyEmployees/ServiceExtensions.cs" Line="24" Column="10" />
+      <File FileName="CompanyEmployees/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="CompanyEmployees/appsettings.Production.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CompanyEmployees" expanded="True">
+            <Node name="CompanyEmployees" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
